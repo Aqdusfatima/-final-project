@@ -44,8 +44,10 @@ void displayMenu()
     cout<<  "                                   --------------------------------------\n";
     cout<<  "                              ^^   ________________________________________ ^^\n";
     cout<<  "\n";
+    cout<<"                                         Press Enter To Continue to continue";
+    cout<<"\n";
     cin.get();
-	system("cls");
+    system("cls");
     cout<<  "\t\t\t                    ^FOR PATIENT^\n   ";
     cout<<  " \n ";
     cout << "\t\t\t              1.  Add Patient Record\n";
