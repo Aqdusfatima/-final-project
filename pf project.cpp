@@ -598,6 +598,6 @@ int main()
                 cout<<"------------------------------------\n";
         }
     } 
-	while (choice != 14);
+	while (choice != 17);
     return 0;
 }																			    
